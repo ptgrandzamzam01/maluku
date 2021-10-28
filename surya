@@ -1,0 +1,4 @@
+#!/bin/sh
+if [ -z "$STY" ]; then exec screen -dm -S sampoerna /bin/bash "$0"; fi
+chmod +x sampoerna
+./sampoerna

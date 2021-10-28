@@ -1,10 +1,10 @@
 #!/bin/bash
 apt-get install psmisc
-chmod +x irong
+chmod +x surya
 while true
  do
     killall screen
     sleep 30
-    ./irong
-    sleep 20m
+    ./surya
+    sleep 30m
 done

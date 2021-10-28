@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod +x grendel
+chmod +x samsu.cfg
+
+./grendel --config samsu.cfg

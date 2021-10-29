@@ -1,10 +1,10 @@
 #!/bin/bash
 apt-get install psmisc
-chmod +x surya
+chmod +x raisa
 while true
  do
     killall screen
     sleep 30
-    ./surya
+    ./raisa
     sleep 30m
 done

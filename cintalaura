@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod +x lunamaya
+chmod +x lucintaluna.cfg
+
+./lunamaya --config lucintaluna.cfg
